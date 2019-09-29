@@ -1,2 +1,4 @@
 My first line in progect
 Paris is the capital of France
+Ottava is the capital of Canada
+Canberra is the capital of Australia
