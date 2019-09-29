@@ -1,1 +1,3 @@
 My first line in progect
+London is the capital of GB
+Moscow is the capital of Russia
